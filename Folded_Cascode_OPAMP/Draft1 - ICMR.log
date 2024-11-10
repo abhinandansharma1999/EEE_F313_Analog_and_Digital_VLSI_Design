@@ -1,0 +1,139 @@
+Circuit: * E:\study\ADVD\Analog Assignment\Draft1 - ICMR.asc
+
+Warning: Multiple definitions of model "cmosp" Type: BSIM3
+Warning: Multiple definitions of model "cmosn" Type: BSIM3
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Width narrower than recommended for a level 1 MOSFET.
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Width narrower than recommended for a level 1 MOSFET.
+Instance "m9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m9": Width narrower than recommended for a level 1 MOSFET.
+Instance "m10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m10": Width narrower than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Width narrower than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Width narrower than recommended for a level 1 MOSFET.
+Instance "m17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m17": Width narrower than recommended for a level 1 MOSFET.
+Instance "m16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m16": Width narrower than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m12": Width narrower than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Width narrower than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Width narrower than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Width narrower than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- MOSFET Transistors ---
+Name:          m15         m14         m9          m10         m8
+Model:        cmosp       cmosp       cmosp       cmosp       cmosp
+Id:           3.69e-5     3.69e-5     5.86e-5     7.38e-5     3.70e-6
+Vgs:          0.00e+0     0.00e+0    -4.07e-1     6.14e-1     6.57e-1
+Vds:          8.98e-1     8.98e-1     4.91e-1     1.51e+0     9.42e-1
+Vbs:          8.98e-1     1.80e+0     4.91e-1     1.51e+0     2.45e+0
+Vth:         -0.00e+0    -0.00e+0    -0.00e+0    -0.00e+0    -0.00e+0
+Vdsat:       -8.98e-1    -8.98e-1    -8.98e-1    -8.98e-1    -2.85e-1
+Gm:           8.21e-5     8.21e-5     8.98e-5     1.64e-4     2.60e-5
+Gds:          0.00e+0     0.00e+0     7.44e-5     0.00e+0     0.00e+0
+Gmb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgsov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgdov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgbov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+
+Name:          m7          m17         m16         m13         m12
+Model:        cmosp       cmosn       cmosn       cmosn       cmosn
+Id:           5.86e-5     4.18e-5     4.18e-5     3.69e-5     3.69e-5
+Vgs:         -6.49e-1     6.76e-1     6.76e-1     9.08e-1     6.76e-1
+Vds:          6.56e-1     6.76e-1     6.76e-1     2.59e-1     4.44e-1
+Vbs:          1.15e+0    -6.76e-1     0.00e+0    -4.44e-1     0.00e+0
+Vth:         -0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Vdsat:       -1.31e+0     6.76e-1     6.76e-1     9.08e-1     6.76e-1
+Gm:           6.00e-5     1.24e-4     1.24e-4     4.74e-5     8.12e-5
+Gds:          5.94e-5     0.00e+0     0.00e+0     1.19e-4     4.24e-5
+Gmb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgsov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgdov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgbov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+
+Name:          m11         m6          m5          m4          m3
+Model:        cmosn       cmosn       cmosn       cmosn       cmosn
+Id:           7.01e-5     3.70e-6     4.18e-5     3.70e-6     4.18e-5
+Vgs:          6.76e-1     1.32e+0     6.76e-1     6.76e-1     6.76e-1
+Vds:          4.04e-1     1.54e-2     6.76e-1     3.06e-2     6.76e-1
+Vbs:          0.00e+0    -3.06e-2    -6.76e-1     0.00e+0     0.00e+0
+Vth:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Vdsat:        6.76e-1     1.32e+0     6.76e-1     6.76e-1     6.76e-1
+Gm:           1.48e-4     2.82e-6     1.24e-4     5.60e-6     1.24e-4
+Gds:          9.95e-5     2.39e-4     0.00e+0     1.18e-4      NaN
+Gmb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgsov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgdov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgbov:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgs:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgd:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgb:          0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+
+Name:          m1          m2
+Model:        cmosn       cmosn
+Id:           7.01e-5      NaN
+Vgs:          9.48e-1    -4.04e-1
+Vds:          5.84e-1     1.60e+0
+Vbs:         -4.04e-1    -4.04e-1
+Vth:          0.00e+0     0.00e+0
+Vdsat:        9.48e-1     0.00e+0
+Gm:           1.07e-4     0.00e+0
+Gds:          6.67e-5     0.00e+0
+Gmb:          0.00e+0     0.00e+0
+Cbd:          0.00e+0     0.00e+0
+Cbs:          0.00e+0     0.00e+0
+Cgsov:        0.00e+0     0.00e+0
+Cgdov:        0.00e+0     0.00e+0
+Cgbov:        0.00e+0     0.00e+0
+Cgs:          0.00e+0     0.00e+0
+Cgd:          0.00e+0     0.00e+0
+Cgb:          0.00e+0     0.00e+0
+
+
+
+Date: Sun Nov  1 19:24:20 2020
+Total elapsed time: 5.426 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 47
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 15
+fillins = 11
+solver = Normal
+Matrix Compiler1: 2.70 KB object code size
+Matrix Compiler2:     137 opcodes

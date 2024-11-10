@@ -1,0 +1,57 @@
+Circuit: * E:\study\ADVD\Analog Assignment\Draft1 - swing.asc
+
+Warning: Multiple definitions of model "cmosp" Type: BSIM3
+Warning: Multiple definitions of model "cmosn" Type: BSIM3
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Width narrower than recommended for a level 1 MOSFET.
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Width narrower than recommended for a level 1 MOSFET.
+Instance "m9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m9": Width narrower than recommended for a level 1 MOSFET.
+Instance "m10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m10": Width narrower than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Width narrower than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Width narrower than recommended for a level 1 MOSFET.
+Instance "m17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m17": Width narrower than recommended for a level 1 MOSFET.
+Instance "m16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m16": Width narrower than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m12": Width narrower than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Width narrower than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Width narrower than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Width narrower than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov  1 19:21:17 2020
+Total elapsed time: 0.109 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3114
+traniter = 3092
+tranpoints = 1311
+accept = 1228
+rejected = 83
+matrix size = 18
+fillins = 32
+solver = Normal
+Matrix Compiler1: 3.87 KB object code size  0.5/0.3/[0.1]
+Matrix Compiler2: 2.50 KB object code size  0.2/0.2/[0.2]
+
